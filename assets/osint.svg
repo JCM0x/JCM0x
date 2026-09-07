@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00d9ff"/>
+      <stop offset="1" stop-color="#7c4dff"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="120" height="120" rx="24" fill="#111827"/>
+  <circle cx="55" cy="55" r="30" fill="none" stroke="url(#g)" stroke-width="9"/>
+  <path d="M78 78 L106 106" fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round"/>
+  <path d="M38 55c9-14 25-20 39-13M39 66c12 7 26 7 38 0" fill="none" stroke="#7ce7ff" stroke-width="3" stroke-linecap="round"/>
+  <text x="64" y="118" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff">OSINT</text>
+</svg>
