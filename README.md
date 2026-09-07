@@ -70,6 +70,7 @@ DOCUMENT WHAT IS REPRODUCIBLE
 <p align="center">
   <img src="https://cdn.jsdelivr.net/npm/@loganmarchione/homelab-svg-assets@latest/assets/wazuh.svg" alt="Wazuh" width="46" />
   <img src="https://cdn.simpleicons.org/splunk" alt="Splunk" width="46" />
+  <img src="https://raw.githubusercontent.com/JCM0x/JCM0x/main/assets/siem-icon.svg" alt="SIEM" width="46" />
   <img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="Windows" width="46" />
 </p>
 
@@ -85,9 +86,9 @@ DOCUMENT WHAT IS REPRODUCIBLE
 <p align="center">
   <img src="https://cdn.simpleicons.org/metasploit" alt="Metasploit" width="52" />
   <img src="https://cdn.simpleicons.org/hashcat" alt="Hashcat" width="52" />
-  <img src="https://cdn.simpleicons.org/hydra" alt="Hydra" width="52" />
-  <img src="https://cdn.simpleicons.org/johntheripper" alt="John the Ripper" width="52" />
-  <img src="https://cdn.simpleicons.org/sqlmap" alt="sqlmap" width="52" />
+  <img src="https://raw.githubusercontent.com/JCM0x/JCM0x/main/assets/hydra-icon.svg" alt="Hydra" width="52" />
+  <img src="https://raw.githubusercontent.com/JCM0x/JCM0x/main/assets/johntheripper-icon.svg" alt="John the Ripper" width="52" />
+  <img src="https://raw.githubusercontent.com/JCM0x/JCM0x/main/assets/sqlmap-icon.svg" alt="sqlmap" width="52" />
 </p>
 
 > Exploitation tooling is listed for authorized labs and CTF practice only.
@@ -153,3 +154,4 @@ Networking
 <!-- Core icon source: skillicons.dev / Skill Icons -->
 <!-- Wazuh icon source: loganmarchione/homelab-svg-assets -->
 <!-- Terminal animation source: github.com/x0rzavi/github-readme-terminal (MIT License) -->
+<!-- Custom portfolio icons: assets/ -->
