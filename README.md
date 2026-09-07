@@ -82,15 +82,13 @@ DOCUMENT WHAT IS REPRODUCIBLE
 
 ### Exploitation — Labs / CTFs
 
-<div align="center">
-
-[![John the Ripper](https://img.shields.io/badge/🔑%20John%20the%20Ripper-111827?style=for-the-badge)](#)
-[![Hydra](https://img.shields.io/badge/🐉%20Hydra-111827?style=for-the-badge)](#)
-[![Metasploit](https://img.shields.io/badge/🛡️%20Metasploit-111827?style=for-the-badge)](#)
-[![Hashcat](https://img.shields.io/badge/🔐%20Hashcat-111827?style=for-the-badge)](#)
-[![sqlmap](https://img.shields.io/badge/💉%20sqlmap-111827?style=for-the-badge)](#)
-
-</div>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/metasploit" alt="Metasploit" width="52" />
+  <img src="https://cdn.simpleicons.org/hashcat" alt="Hashcat" width="52" />
+  <img src="https://cdn.simpleicons.org/hydra" alt="Hydra" width="52" />
+  <img src="https://cdn.simpleicons.org/johntheripper" alt="John the Ripper" width="52" />
+  <img src="https://cdn.simpleicons.org/sqlmap" alt="sqlmap" width="52" />
+</p>
 
 > Exploitation tooling is listed for authorized labs and CTF practice only.
 > **Status:** Currently studying these technologies; professional experience is not implied.
