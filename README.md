@@ -66,9 +66,9 @@ DOCUMENT WHAT IS REPRODUCIBLE
   <img src="https://cdn.simpleicons.org/hashcat" alt="Hashcat" width="58" />
   <img src="https://static.wixstatic.com/media/f9d248_b049f68703aa477480aadbb9baae7a45~mv2.png/v1/fill/w_980%2Ch_980%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/f9d248_b049f68703aa477480aadbb9baae7a45~mv2.png" alt="THC Hydra" width="58" />
   <img src="https://raw.githubusercontent.com/openwall/john-packages/main/deploy/metadata/com.openwall.John.png" alt="John the Ripper" width="58" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Sqlmap_logo.png" alt="sqlmap" width="58" />
-  <img src="https://dl.svgcdn.com/svg/simple-icons/snort.svg" alt="Snort" width="58" />
-  <img src="https://raw.githubusercontent.com/bwks/network-icons-svg/master/generic-firewall-flat-colour-label-v1-colour.svg" alt="Firewall" width="58" />
+  <img src="https://cdn.simpleicons.org/sqlmap" alt="sqlmap" width="58" />
+  <img src="https://cdn.simpleicons.org/snort" alt="Snort" width="58" />
+  <img src="https://cdn.simpleicons.org/amazonaws" alt="AWS" width="58" />
 </p>
 
 > Offensive security tools are shown for authorized labs and CTF practice only.
@@ -133,7 +133,5 @@ Networking
 <!-- Core icon source: skillicons.dev / Skill Icons -->
 <!-- Wazuh icon source: loganmarchione/homelab-svg-assets -->
 <!-- Terminal animation source: github.com/x0rzavi/github-readme-terminal (MIT License) -->
-<!-- Snort source: Simple Icons -->
+<!-- Security tool icons: Simple Icons / official project sources -->
 <!-- John the Ripper source: Openwall john-packages -->
-<!-- sqlmap source: Wikimedia Commons -->
-<!-- Firewall source: bwks/network-icons-svg -->
