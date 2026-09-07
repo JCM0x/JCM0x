@@ -49,32 +49,29 @@ DOCUMENT WHAT IS REPRODUCIBLE
 | Detection | Sysmon |
 | MITRE ATT&CK | Security Automation |
 
-## Technical Stack
+## Skills
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/offensive-vk/Icons/master/linux/linux-original.svg" alt="Linux" width="58" height="58" />
-  <img src="https://raw.githubusercontent.com/offensive-vk/Icons/master/windows/windows-original.svg" alt="Windows" width="58" height="58" />
   <img src="https://skillicons.dev/icons?i=kali&theme=dark" alt="Kali Linux" width="58" height="58" />
   <img src="https://raw.githubusercontent.com/offensive-vk/Icons/master/python/python-original.svg" alt="Python" width="58" height="58" />
   <img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" width="58" height="58" />
   <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" width="58" height="58" />
   <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="58" height="58" />
   <img src="https://nmap.org/images/nmap-logo-64px.png" alt="Nmap" width="58" height="58" />
-  <img src="https://raw.githubusercontent.com/offensive-vk/Icons/master/wireshark/wireshark-original.svg" alt="Wireshark" width="58" height="58" />
-  <img src="https://raw.githubusercontent.com/offensive-vk/Icons/master/cisco/cisco-original.svg" alt="Cisco" width="58" height="58" />
-  <img src="https://raw.githubusercontent.com/offensive-vk/Icons/master/wazuh/wazuh-original.svg" alt="Wazuh" width="58" height="58" />
-  <img src="https://raw.githubusercontent.com/offensive-vk/Icons/master/splunk/splunk-original.svg" alt="Splunk" width="58" height="58" />
-  <img src="https://raw.githubusercontent.com/offensive-vk/Icons/master/mysql/mysql-original.svg" alt="MySQL" width="58" height="58" />
-  <img src="https://cdn.jsdelivr.net/gh/sempwn/awesome-hacking@master/assets/icons/sqlmap.svg" alt="sqlmap" width="58" height="58" />
-  <img src="https://cdn.jsdelivr.net/gh/sempwn/awesome-hacking@master/assets/icons/snort.svg" alt="Snort" width="58" height="58" />
-  <img src="https://raw.githubusercontent.com/offensive-vk/Icons/master/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="58" height="58" />
-  <img src="https://raw.githubusercontent.com/offensive-vk/Icons/master/metasploit/metasploit-original.svg" alt="Metasploit" width="58" height="58" />
-  <img src="https://raw.githubusercontent.com/offensive-vk/Icons/master/hashcat/hashcat-original.svg" alt="Hashcat" width="58" height="58" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mysql/mysql-original.svg" alt="MySQL" width="58" height="58" />
   <img src="https://raw.githubusercontent.com/openwall/john-packages/main/deploy/metadata/com.openwall.John.png" alt="John the Ripper" width="58" height="58" />
   <img src="https://static.wixstatic.com/media/f9d248_b049f68703aa477480aadbb9baae7a45~mv2.png/v1/fill/w_980%2Ch_980%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/f9d248_b049f68703aa477480aadbb9baae7a45~mv2.png" alt="THC Hydra" width="58" height="58" />
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" width="58" height="58" />
+  <img src="https://skillicons.dev/icons?i=metasploit&theme=dark" alt="Metasploit" width="58" height="58" />
+  <img src="https://skillicons.dev/icons?i=hashcat&theme=dark" alt="Hashcat" width="58" height="58" />
+  <img src="https://cdn.jsdelivr.net/gh/sempwn/awesome-hacking@master/assets/icons/sqlmap.svg" alt="sqlmap" width="58" height="58" />
+  <img src="https://cdn.jsdelivr.net/gh/sempwn/awesome-hacking@master/assets/icons/snort.svg" alt="Snort" width="58" height="58" />
+  <img src="https://cdn.jsdelivr.net/gh/JCM0x/JCM0x@main/assets/osint.svg" alt="OSINT" width="58" height="58" />
+  <img src="https://skillicons.dev/icons?i=search&theme=dark" alt="Search Exploit" width="58" height="58" />
 </p>
 
-> Offensive security tools are shown for authorized labs and CTF practice only.
+> Security tools are shown for authorized labs and CTF practice only.
 
 ## Certifications
 
@@ -133,7 +130,7 @@ Networking
 
 </div>
 
-<!-- Main colored icon source: github.com/offensive-vk/Icons -->
+<!-- Main colored icon sources: github.com/offensive-vk/Icons and github.com/devicons/devicon -->
 <!-- Terminal animation source: github.com/x0rzavi/github-readme-terminal (MIT License) -->
-<!-- sqlmap/Snort icon source: github.com/sempwn/awesome-hacking -->
 <!-- John the Ripper source: Openwall john-packages -->
+<!-- OSINT icon: repository-local SVG -->
