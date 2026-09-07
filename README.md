@@ -51,48 +51,25 @@ DOCUMENT WHAT IS REPRODUCIBLE
 
 ## Technical Stack
 
-### Core
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,kali,python,bash,docker,github&perline=7&theme=dark" alt="Core technology icons" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,kali,python,bash,docker,github&perline=7&theme=dark" alt="Linux Windows Kali Python Bash Docker GitHub" width="560" />
+  <img src="https://nmap.org/images/nmap-logo-64px.png" alt="Nmap" width="58" />
+  <img src="https://cdn.simpleicons.org/wireshark" alt="Wireshark" width="58" />
+  <img src="https://cdn.simpleicons.org/cisco" alt="Cisco" width="58" />
+  <img src="https://cdn.jsdelivr.net/npm/@loganmarchione/homelab-svg-assets@latest/assets/wazuh.svg" alt="Wazuh" width="58" />
+  <img src="https://cdn.simpleicons.org/splunk" alt="Splunk" width="58" />
+  <img src="https://iotsecurityinstitute.com/iotsec/images/Articles_IoTSI/siem.png" alt="SIEM" width="58" />
+  <img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="Windows" width="58" />
+  <img src="https://cdn.simpleicons.org/burpsuite" alt="Burp Suite" width="58" />
+  <img src="https://cdn.simpleicons.org/owasp" alt="OWASP" width="58" />
+  <img src="https://cdn.simpleicons.org/metasploit" alt="Metasploit" width="58" />
+  <img src="https://cdn.simpleicons.org/hashcat" alt="Hashcat" width="58" />
+  <img src="https://static.wixstatic.com/media/f9d248_b049f68703aa477480aadbb9baae7a45~mv2.png/v1/fill/w_980%2Ch_980%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/f9d248_b049f68703aa477480aadbb9baae7a45~mv2.png" alt="THC Hydra" width="64" />
+  <img src="https://pcniki.com/wp-content/uploads/2024/08/john-the-ripper.webp" alt="John the Ripper" width="64" />
+  <img src="https://cdn.techjockey.com/web/assets/images/techjockey/products/26659_26659_sqlmaplogo.jpg" alt="sqlmap" width="64" />
 </p>
 
-### Networking
-
-<p align="center">
-  <img src="https://nmap.org/images/nmap-logo-64px.png" alt="Nmap" width="46" />
-  <img src="https://cdn.simpleicons.org/wireshark" alt="Wireshark" width="46" />
-  <img src="https://cdn.simpleicons.org/cisco" alt="Cisco" width="46" />
-</p>
-
-### SOC & Detection
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/@loganmarchione/homelab-svg-assets@latest/assets/wazuh.svg" alt="Wazuh" width="46" />
-  <img src="https://cdn.simpleicons.org/splunk" alt="Splunk" width="46" />
-  <img src="https://raw.githubusercontent.com/JCM0x/JCM0x/main/assets/siem-icon.svg" alt="SIEM" width="46" />
-  <img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="Windows" width="46" />
-</p>
-
-### Web Security
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/burpsuite" alt="Burp Suite" width="46" />
-  <img src="https://cdn.simpleicons.org/owasp" alt="OWASP" width="46" />
-</p>
-
-### Exploitation — Labs / CTFs
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/metasploit" alt="Metasploit" width="52" />
-  <img src="https://cdn.simpleicons.org/hashcat" alt="Hashcat" width="52" />
-  <img src="https://raw.githubusercontent.com/JCM0x/JCM0x/main/assets/hydra-icon.svg" alt="Hydra" width="52" />
-  <img src="https://raw.githubusercontent.com/JCM0x/JCM0x/main/assets/johntheripper-icon.svg" alt="John the Ripper" width="52" />
-  <img src="https://raw.githubusercontent.com/JCM0x/JCM0x/main/assets/sqlmap-icon.svg" alt="sqlmap" width="52" />
-</p>
-
-> Exploitation tooling is listed for authorized labs and CTF practice only.
-> **Status:** Currently studying these technologies; professional experience is not implied.
+> Offensive security tools are shown for authorized labs and CTF practice only.
 
 ## Certifications
 
@@ -154,4 +131,4 @@ Networking
 <!-- Core icon source: skillicons.dev / Skill Icons -->
 <!-- Wazuh icon source: loganmarchione/homelab-svg-assets -->
 <!-- Terminal animation source: github.com/x0rzavi/github-readme-terminal (MIT License) -->
-<!-- Custom portfolio icons: assets/ -->
+<!-- Hydra/John/sqlmap/SIEM visual sources selected from researched logo assets -->
