@@ -1,91 +1,78 @@
-# JCM0x | Cybersecurity Portfolio
+# JCM0x
 
-> Hands-on cybersecurity learning, security engineering, and technical documentation.
+> **Junior SOC Analyst | SOC / Blue Team**  
+> *Learn by building. Investigate with evidence. Document what is reproducible.*
 
-[![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-111111?style=flat-square)](#)
-[![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org/)
 
 ## About
 
-I use this profile to document hands-on cybersecurity projects, lab environments, investigations, scripts, and technical write-ups.
+I am building my foundation toward a **Junior SOC Analyst** role through hands-on study in **Linux, networking, and defensive security**.
 
-My approach is simple: learn by building, test only in authorized environments, preserve evidence, explain the reasoning, and document what can be reproduced.
+My current training is centered on the **SOC pathway at TryHackMe**, where I focus on understanding systems, analyzing security-relevant activity, and learning how defenders investigate and respond to incidents.
+
+My approach is practical and evidence-driven: **build in the lab, test only where authorized, preserve evidence, understand the reasoning, and document what can be reproduced.**
 
 ## Security Focus
 
-- Network security & reconnaissance
-- Linux and Windows security
-- Web application security
-- SOC / defensive security
-- Vulnerability analysis
-- Digital forensics fundamentals
-- Security automation with Python and Bash
-- Threat intelligence & OSINT fundamentals
-- CTFs and deliberately vulnerable labs
+`SOC / Blue Team` · `Security Monitoring` · `Incident Analysis`  
+`Linux` · `Networking` · `SIEM` · `Detection`  
+`Windows Security` · `Sysmon` · `MITRE ATT&CK` · `Security Automation`
 
-## Featured Work
+## Technical Stack — Currently Studying
 
-| Project | Area | What it demonstrates |
-|---|---|---|
-| Coming soon | Network Security | Enumeration, analysis, and reporting |
-| Coming soon | Web Security | Vulnerability analysis in a controlled lab |
-| Coming soon | Blue Team | Detection, investigation, and response |
-| Coming soon | Automation | Security-focused scripting |
+| Area | Technologies |
+|---|---|
+| **Operating Systems** | Linux · Windows · Kali Linux |
+| **SOC / Detection** | SIEM · Wazuh · Sysmon · MITRE ATT&CK |
+| **Network Security** | Networking · Nmap · Wireshark |
+| **Web Security** | Burp Suite · Gobuster |
+| **Scripting** | Python · Bash |
+| **Infrastructure** | Git · GitHub · Docker · VirtualBox |
 
-> This table will be updated as projects are completed and documented.
+## Certifications & Training
 
-## How I Document Projects
+- **Cisco — Junior Cybersecurity Analyst Career Path Exam**
+- **Cisco — Networking Basics**
+- **TryHackMe — SOC pathway** *(currently studying)*
 
-Every serious project aims to answer:
+> Certifications and training are listed at their actual level and status; no professional experience is implied.
 
-1. **Objective** — What problem am I solving?
-2. **Scope** — What systems/labs are authorized?
-3. **Environment** — What tools, OSes, and versions were used?
-4. **Methodology** — What was tested and why?
-5. **Evidence** — What logs, screenshots, commands, or artifacts support the findings?
-6. **Findings** — What was discovered?
-7. **Remediation** — How could the weakness be reduced or fixed?
-8. **Lessons learned** — What would I do differently next time?
+## Learning Methodology
 
-## Tools & Technologies
+```text
+Understand → Build a lab → Observe → Investigate → Validate → Document
+```
 
-`Linux` `Windows` `Git` `GitHub` `Python` `Bash` `Nmap` `Wireshark` `Burp Suite` `Gobuster` `Wazuh` `Sysmon` `Docker` `VirtualBox` `Kali Linux`
+For future technical write-ups, the standard will be:
+
+`Scope` → `Environment` → `Methodology` → `Evidence` → `Findings` → `Impact` → `Remediation`
+
+## Connect
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/DraB0)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JCM0x)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Replace%20URL-00c2ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/JCM0x)
+
+> **Portfolio URL:** replace the Portfolio badge link above when the web portfolio is published.
+
+## GitHub Activity
+
+A stats card can be useful later, but I recommend keeping this profile focused while the portfolio is still being built. When your repository history has meaningful technical work, add:
+
+[![JCM0x GitHub Stats](https://github-readme-stats.vercel.app/api?username=JCM0x&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)](https://github.com/JCM0x)
 
 ## Security Principles
 
 - Work only in systems I own or have explicit authorization to test.
-- Never publish passwords, API keys, tokens, private keys, session cookies, or confidential data.
-- Use sanitized screenshots and example data in public write-ups.
-- Keep offensive testing inside controlled labs and CTF environments.
+- Never publish passwords, API keys, access tokens, private keys, session cookies, or confidential data.
+- Sanitize screenshots, logs, IP addresses, credentials, and other sensitive artifacts before publication.
+- Keep offensive experimentation inside controlled labs and authorized CTF environments.
 - Prefer reproducible evidence and honest technical claims.
-
-## Learning Track
-
-`Networking` → `Linux` → `Web Security` → `SOC / Detection` → `Automation` → `Cloud Security`
-
-## Repository Map
-
-```text
-cybersecurity-portfolio/
-├── 01-network-security/
-├── 02-web-security/
-├── 03-blue-team/
-├── 04-digital-forensics/
-├── 05-osint/
-├── 06-automation/
-├── 07-ctf-writeups/
-├── assets/
-├── PROJECT-TEMPLATE.md
-├── SECURITY.md
-└── README.md
-```
-
-## Contact
-
-GitHub: [JCM0x](https://github.com/JCM0x)
 
 ---
 
-> Build. Break in the lab. Investigate. Document. Improve.
+`JCM0x // SOC / Blue Team learner`
