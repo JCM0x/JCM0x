@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/x0rzavi/github-readme-terminal/main/docs/assets/sample.gif" alt="Animated terminal" width="430">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:1a1a2e&height=170&section=header&text=JCM0x&fontSize=38&fontColor=39FF14&animation=fadeIn&fontAlignY=40" width="100%" alt="header banner">
 
-# JCM0x
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjd2dmFoMnV6cWQ1MXU2am9xdDl0cDV0MjA1Y2VjczV2cWlheDludCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vrfYWzuTAYViOUqBRP/giphy.gif" alt="Glitch skeleton 8-bit animation" width="300">
 
 ### `Junior SOC Analyst | SOC / Blue Team`
 
-**Learn by building. Investigate with evidence. Document what is reproducible.**
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=Learn+by+building.;Investigate+with+evidence.;Document+what+is+reproducible." alt="typing tagline">
+
+<img src="https://komarev.com/ghpvc/?username=JCM0x&label=Profile%20Views&color=39FF14&style=flat-square" alt="profile views">
 
 </div>
 
@@ -21,11 +23,22 @@
 
 ## whoami
 
+<table>
+<tr>
+<td width="68%" valign="top">
+
 I am building my foundation toward a **Junior SOC Analyst** role through hands-on study in **Linux, networking, and defensive security**.
 
 My current training is centered on the **SOC pathway at TryHackMe**, with a focus on understanding systems, analyzing security-relevant activity, and learning how defenders investigate and respond to incidents.
 
-My approach is practical and evidence-driven:
+My approach is practical and evidence-driven.
+
+</td>
+<td width="32%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="190" alt="coffee while working">
+</td>
+</tr>
+</table>
 
 ```text
 BUILD IN THE LAB
@@ -83,10 +96,10 @@ DOCUMENT WHAT IS REPRODUCIBLE
 
 <div align="center">
 
-[![Cisco](https://img.shields.io/badge/Cisco-Junior%20Cybersecurity%20Analyst%20Career%20Path%20Exam-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](#)
-[![Cisco](https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](#)
+![Cisco](https://img.shields.io/badge/Cisco-Junior%20Cybersecurity%20Analyst%20Career%20Path%20Exam-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-`2026`
+`🎯 In progress · Target 2026`
 
 </div>
 
@@ -110,11 +123,17 @@ Networking
 
 </div>
 
-## GitHub Activity
+## 📊 Stats & Activity
 
 <div align="center">
 
-[![JCM0x GitHub Stats](https://github-readme-stats.vercel.app/api?username=JCM0x&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true)](https://github.com/JCM0x)
+<img src="https://github-readme-stats.vercel.app/api?username=JCM0x&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=86400" width="49%" alt="JCM0x GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCM0x&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="49%" alt="Top languages">
+
+<img src="https://streak-stats.demolab.com/?user=JCM0x&theme=radical&hide_border=true" width="49%" alt="GitHub streak">
+<img src="https://github-profile-trophy.vercel.app/?username=JCM0x&theme=radical&no-frame=true&row=1&column=6" width="49%" alt="GitHub trophies">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JCM0x&theme=react-dark&hide_border=true" width="100%" alt="Contribution activity graph">
 
 </div>
 
@@ -134,10 +153,20 @@ Networking
 
 `JCM0x // SOC / Blue Team learner // 2026`
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:1a1a2e&height=100&section=footer" width="100%" alt="footer banner">
+
 </div>
 
 <!-- Verified logo sources include Devicon, Simple Icons, official project assets, and repository-local OSINT art. -->
-<!-- Terminal animation source: github.com/x0rzavi/github-readme-terminal (MIT License) -->
+<!-- Header animation source: giphy.com/gifs/8bit-gifart-dither-vrfYWzuTAYViOUqBRP -->
+<!-- Header/footer wave banner: github.com/kyechan99/capsule-render -->
+<!-- Typing animation: github.com/DenverCoder1/readme-typing-svg -->
+<!-- Coffee gif source: github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub -->
+<!-- Stats & top languages: github.com/anuraghazra/github-readme-stats (official demo instance) -->
+<!-- Streak stats: github.com/DenverCoder1/github-readme-streak-stats — uses streak-stats.demolab.com (the old herokuapp.com endpoint is discontinued) -->
+<!-- Trophies: github.com/ryo-ma/github-profile-trophy -->
+<!-- Activity graph: github.com/Ashutosh00710/github-readme-activity-graph -->
+<!-- Profile views counter: komarev.com/ghpvc -->
 <!-- SearchSploit source: github.com/JitPatro/searchsploit -->
 <!-- John the Ripper source: Openwall john-packages -->
 <!-- OSINT icon: repository-local SVG -->
