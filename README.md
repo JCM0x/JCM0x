@@ -66,7 +66,7 @@ DOCUMENT WHAT IS REPRODUCIBLE
   <img src="https://cdn.simpleicons.org/splunk/FF4F00" alt="Splunk" width="58" height="58" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="58" height="58" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="58" height="58" />
-  <img src="https://raw.githubusercontent.com/rapid7/metasploit-framework/master/docs/assets/images/metasploit-logo-dark-external-use.svg" alt="Metasploit" width="58" height="58" />
+  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Logo_metasploit.png" alt="Metasploit" width="58" height="58" />
   <img src="https://cdn.simpleicons.org/hashcat/13B6E7" alt="Hashcat" width="58" height="58" />
   <img src="https://raw.githubusercontent.com/openwall/john-packages/main/deploy/metadata/com.openwall.John.png" alt="John the Ripper" width="58" height="58" />
   <img src="https://static.wixstatic.com/media/f9d248_b049f68703aa477480aadbb9baae7a45~mv2.png/v1/fill/w_980%2Ch_980%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/f9d248_b049f68703aa477480aadbb9baae7a45~mv2.png" alt="THC Hydra" width="58" height="58" />
@@ -74,7 +74,6 @@ DOCUMENT WHAT IS REPRODUCIBLE
   <img src="https://cdn.simpleicons.org/owasp/00A9CE" alt="OWASP" width="58" height="58" />
   <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Sqlmap%20logo.png" alt="sqlmap" width="58" height="58" />
   <img src="https://cdn.simpleicons.org/snort/E3002B" alt="Snort" width="58" height="58" />
-  <img src="https://cdn.jsdelivr.net/gh/JCM0x/JCM0x@main/assets/osint.svg" alt="OSINT" width="58" height="58" />
   <img src="https://raw.githubusercontent.com/JitPatro/searchsploit/main/searchsploit.png" alt="SearchSploit" width="58" height="58" />
 </p>
 
