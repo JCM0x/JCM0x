@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/x0rzavi/github-readme-terminal/main/docs/assets/sample.gif" alt="Animated terminal" width="820">
+<img src="https://raw.githubusercontent.com/x0rzavi/github-readme-terminal/main/docs/assets/sample.gif" alt="Animated terminal" width="430">
 
 # JCM0x
 
