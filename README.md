@@ -51,23 +51,40 @@ DOCUMENT WHAT IS REPRODUCIBLE
 
 ## `technical_stack`
 
-**Operating Systems**  
-`Linux` `Windows` `Kali Linux`
+### `core`
 
-**SOC / Detection**  
-`SIEM` `Wazuh` `Sysmon` `MITRE ATT&CK`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows,kali,python,bash,docker,git,github&perline=8&theme=dark" alt="Core technology icons" />
+</p>
 
-**Network Security**  
-`Networking` `Nmap` `Wireshark`
+### `networking`
 
-**Web Security**  
-`Burp Suite` `Gobuster`
+<p align="center">
+  <img src="https://cdn.simpleicons.org/nmap" alt="Nmap" width="44" />
+  <img src="https://cdn.simpleicons.org/wireshark" alt="Wireshark" width="44" />
+  <img src="https://cdn.simpleicons.org/cisco" alt="Cisco" width="44" />
+</p>
 
-**Scripting**  
-`Python` `Bash`
+<p align="center"><sub>Nmap · Wireshark · Cisco · Networking</sub></p>
 
-**Infrastructure**  
-`Git` `GitHub` `Docker` `VirtualBox`
+### `soc_and_detection`
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/wazuh" alt="Wazuh" width="44" />
+  <img src="https://cdn.simpleicons.org/splunk" alt="Splunk" width="44" />
+  <img src="https://cdn.simpleicons.org/microsoft" alt="Microsoft" width="44" />
+</p>
+
+<p align="center"><sub>Wazuh · Splunk · Windows / Sysmon · SIEM · MITRE ATT&CK</sub></p>
+
+### `web_and_security`
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/burpsuite" alt="Burp Suite" width="44" />
+  <img src="https://cdn.simpleicons.org/owasp" alt="OWASP" width="44" />
+</p>
+
+<p align="center"><sub>Burp Suite · OWASP · Gobuster · Web Security</sub></p>
 
 > **Status:** Currently studying these technologies; professional experience is not implied.
 
@@ -128,4 +145,6 @@ Networking
 
 </div>
 
+<!-- Core icon source: skillicons.dev / Skill Icons -->
+<!-- Brand icon source: Simple Icons (simple-icons/simple-icons) -->
 <!-- Terminal animation source: github.com/x0rzavi/github-readme-terminal (MIT License) -->
