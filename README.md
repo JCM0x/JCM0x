@@ -19,7 +19,7 @@
 
 </div>
 
-## `whoami`
+## whoami
 
 I am building my foundation toward a **Junior SOC Analyst** role through hands-on study in **Linux, networking, and defensive security**.
 
@@ -39,7 +39,7 @@ VALIDATE THE FINDING
 DOCUMENT WHAT IS REPRODUCIBLE
 ```
 
-## `security_focus`
+## Security Focus
 
 | SOC / Blue Team | Core Foundations |
 |---|---|
@@ -49,46 +49,53 @@ DOCUMENT WHAT IS REPRODUCIBLE
 | Detection | Sysmon |
 | MITRE ATT&CK | Security Automation |
 
-## `technical_stack`
+## Technical Stack
 
-### `core`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,kali,python,bash,docker,git,github&perline=8&theme=dark" alt="Core technology icons" />
-</p>
-
-### `networking`
+### Core
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/nmap" alt="Nmap" width="44" />
-  <img src="https://cdn.simpleicons.org/wireshark" alt="Wireshark" width="44" />
-  <img src="https://cdn.simpleicons.org/cisco" alt="Cisco" width="44" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,kali,python,bash,docker,github&perline=7&theme=dark" alt="Core technology icons" />
 </p>
 
-<p align="center"><sub>Nmap · Wireshark · Cisco · Networking</sub></p>
-
-### `soc_and_detection`
+### Networking
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/wazuh" alt="Wazuh" width="44" />
-  <img src="https://cdn.simpleicons.org/splunk" alt="Splunk" width="44" />
-  <img src="https://cdn.simpleicons.org/microsoft" alt="Microsoft" width="44" />
+  <img src="https://nmap.org/images/nmap-logo-64px.png" alt="Nmap" width="46" />
+  <img src="https://cdn.simpleicons.org/wireshark" alt="Wireshark" width="46" />
+  <img src="https://cdn.simpleicons.org/cisco" alt="Cisco" width="46" />
 </p>
 
-<p align="center"><sub>Wazuh · Splunk · Windows / Sysmon · SIEM · MITRE ATT&CK</sub></p>
-
-### `web_and_security`
+### SOC & Detection
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/burpsuite" alt="Burp Suite" width="44" />
-  <img src="https://cdn.simpleicons.org/owasp" alt="OWASP" width="44" />
+  <img src="https://cdn.jsdelivr.net/npm/@loganmarchione/homelab-svg-assets@latest/assets/wazuh.svg" alt="Wazuh" width="46" />
+  <img src="https://cdn.simpleicons.org/splunk" alt="Splunk" width="46" />
+  <img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="Windows" width="46" />
 </p>
 
-<p align="center"><sub>Burp Suite · OWASP · Gobuster · Web Security</sub></p>
+### Web Security
 
+<p align="center">
+  <img src="https://cdn.simpleicons.org/burpsuite" alt="Burp Suite" width="46" />
+  <img src="https://cdn.simpleicons.org/owasp" alt="OWASP" width="46" />
+</p>
+
+### Exploitation — Labs / CTFs
+
+<div align="center">
+
+[![John the Ripper](https://img.shields.io/badge/🔑%20John%20the%20Ripper-111827?style=for-the-badge)](#)
+[![Hydra](https://img.shields.io/badge/🐉%20Hydra-111827?style=for-the-badge)](#)
+[![Metasploit](https://img.shields.io/badge/🛡️%20Metasploit-111827?style=for-the-badge)](#)
+[![Hashcat](https://img.shields.io/badge/🔐%20Hashcat-111827?style=for-the-badge)](#)
+[![sqlmap](https://img.shields.io/badge/💉%20sqlmap-111827?style=for-the-badge)](#)
+
+</div>
+
+> Exploitation tooling is listed for authorized labs and CTF practice only.
 > **Status:** Currently studying these technologies; professional experience is not implied.
 
-## `certifications`
+## Certifications
 
 <div align="center">
 
@@ -99,7 +106,7 @@ DOCUMENT WHAT IS REPRODUCIBLE
 
 </div>
 
-## `learning_path`
+## Learning Path
 
 ```text
 Networking
@@ -110,7 +117,7 @@ Networking
                         └── Automation
 ```
 
-## `connect`
+## Connect
 
 <div align="center">
 
@@ -119,7 +126,7 @@ Networking
 
 </div>
 
-## `github_activity`
+## GitHub Activity
 
 <div align="center">
 
@@ -127,7 +134,7 @@ Networking
 
 </div>
 
-## `security_principles`
+## Security Principles
 
 ```text
 [+] Authorized environments only
@@ -146,5 +153,5 @@ Networking
 </div>
 
 <!-- Core icon source: skillicons.dev / Skill Icons -->
-<!-- Brand icon source: Simple Icons (simple-icons/simple-icons) -->
+<!-- Wazuh icon source: loganmarchione/homelab-svg-assets -->
 <!-- Terminal animation source: github.com/x0rzavi/github-readme-terminal (MIT License) -->
