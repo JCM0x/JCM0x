@@ -35,9 +35,9 @@ My approach is practical and evidence-driven: **build in the lab, test only wher
 
 ## Certifications & Training
 
-- **Cisco — Junior Cybersecurity Analyst Career Path Exam**
-- **Cisco — Networking Basics**
-- **TryHackMe — SOC pathway** *(currently studying)*
+- **Cisco — Junior Cybersecurity Analyst Career Path Exam** · 2026
+- **Cisco — Networking Basics** · 2026
+- **TryHackMe — SOC pathway** · Currently studying
 
 > Certifications and training are listed at their actual level and status; no professional experience is implied.
 
@@ -46,10 +46,6 @@ My approach is practical and evidence-driven: **build in the lab, test only wher
 ```text
 Understand → Build a lab → Observe → Investigate → Validate → Document
 ```
-
-For future technical write-ups, the standard will be:
-
-`Scope` → `Environment` → `Methodology` → `Evidence` → `Findings` → `Impact` → `Remediation`
 
 ## Connect
 
@@ -60,8 +56,6 @@ For future technical write-ups, the standard will be:
 > **Portfolio URL:** replace the Portfolio badge link above when the web portfolio is published.
 
 ## GitHub Activity
-
-A stats card can be useful later, but I recommend keeping this profile focused while the portfolio is still being built. When your repository history has meaningful technical work, add:
 
 [![JCM0x GitHub Stats](https://github-readme-stats.vercel.app/api?username=JCM0x&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)](https://github.com/JCM0x)
 
