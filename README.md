@@ -73,7 +73,7 @@ DOCUMENT WHAT IS REPRODUCIBLE
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="58" height="58" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="58" height="58" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="58" height="58" />
-  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" alt="AWS" width="58" height="58" />
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="AWS" width="58" height="58" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="58" height="58" />
 </p>
 
