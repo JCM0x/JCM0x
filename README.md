@@ -79,24 +79,22 @@ DOCUMENT WHAT IS REPRODUCIBLE
 
 <p align="center"><sub><b>Security arsenal</b></sub></p>
 <p align="center">
-  <img src="https://nmap.org/images/nmap-logo-64px.svg" alt="Nmap" width="50" height="50" />
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" width="50" height="50" />
-  <img src="https://wazuh.com/brand-assets/Wazuh-Logo.svg" alt="Wazuh" width="50" height="50" />
-  <img src="https://cdn.simpleicons.org/splunk/FFFFFF" alt="Splunk" width="50" height="50" />
-  <img src="https://cdn.simpleicons.org/metasploit/FFFFFF" alt="Metasploit" width="50" height="50" />
-  <img src="https://cdn.simpleicons.org/owasp/FFFFFF" alt="OWASP" width="50" height="50" />
-  <img src="https://cdn.simpleicons.org/hashcat/FFFFFF" alt="Hashcat" width="50" height="50" />
-  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" alt="Burp Suite" width="50" height="50" />
-  <img src="https://cdn.simpleicons.org/snort/F6A7AA" alt="Snort" width="50" height="50" />
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="Cisco" width="50" height="50" />
+  <img src="https://nmap.org/images/nmap-logo-64px.svg" alt="Nmap" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" width="48" height="48" />
+  <img src="https://wazuh.com/brand-assets/Wazuh-Logo.svg" alt="Wazuh" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/splunk/FFFFFF" alt="Splunk" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/metasploit/FFFFFF" alt="Metasploit" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/hashcat/FFFFFF" alt="Hashcat" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" alt="Burp Suite" width="48" height="48" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/openwall/john-packages/main/deploy/metadata/com.openwall.John.png" alt="John the Ripper" width="50" height="50" />
-  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Sqlmap_logo.png" alt="sqlmap" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/JitPatro/searchsploit/main/searchsploit.png" alt="SearchSploit" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/owasp/FFFFFF" alt="OWASP" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/snort/F6A7AA" alt="Snort" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="Cisco" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/openwall/john-packages/main/deploy/metadata/com.openwall.John.png" alt="John the Ripper" width="48" height="48" />
+  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Sqlmap_logo.png" alt="sqlmap" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/JitPatro/searchsploit/main/searchsploit.png" alt="SearchSploit" width="48" height="48" />
 </p>
-
-> Security tools are shown for authorized labs and CTF practice only. The skills are grouped into core technologies and security tooling for a cleaner layout.
 
 ## Certifications
 
