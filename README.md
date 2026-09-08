@@ -63,36 +63,24 @@ DOCUMENT WHAT IS REPRODUCIBLE
 | MITRE ATT&CK | Security Automation |
 
 ## Skills
-
-<p align="center"><sub><b>Core stack</b></sub></p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="54" height="54" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="Windows" width="54" height="54" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" alt="Kali Linux" width="54" height="54" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="54" height="54" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="54" height="54" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="54" height="54" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="54" height="54" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="54" height="54" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="54" height="54" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,windows,kali,py,bash,docker,github,aws,mysql" />
+  </a>
 </p>
-
-<p align="center"><sub><b>Security arsenal</b></sub></p>
 <p align="center">
   <img src="https://nmap.org/images/nmap-logo-64px.svg" alt="Nmap" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/wireshark" alt="Wireshark" width="48" height="48" />
   <img src="https://wazuh.com/brand-assets/Wazuh-Logo.svg" alt="Wazuh" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/splunk/FFFFFF" alt="Splunk" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/metasploit/FFFFFF" alt="Metasploit" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/hashcat/FFFFFF" alt="Hashcat" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" alt="Burp Suite" width="48" height="48" />
-</p>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/owasp/FFFFFF" alt="OWASP" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/snort/F6A7AA" alt="Snort" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="Cisco" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/splunk" alt="Splunk" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/metasploit" alt="Metasploit" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/hashcat" alt="Hashcat" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/burpsuite" alt="Burp Suite" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/owasp" alt="OWASP" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/snort" alt="Snort" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/cisco" alt="Cisco" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/openwall/john-packages/main/deploy/metadata/com.openwall.John.png" alt="John the Ripper" width="48" height="48" />
-  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Sqlmap_logo.png" alt="sqlmap" width="48" height="48" />
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Sqlmap_logo.png" alt="sqlmap" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/JitPatro/searchsploit/main/searchsploit.png" alt="SearchSploit" width="48" height="48" />
 </p>
 
@@ -110,9 +98,6 @@ DOCUMENT WHAT IS REPRODUCIBLE
 ## Learning Path
 
 ```text
-┌──────────────────────────────────────────────┐
-│  root@jcm0x:~$ cat learning_path.log          │
-└──────────────────────────────────────────────┘
 
    [✔] 01 · Networking
     │
@@ -123,13 +108,13 @@ DOCUMENT WHAT IS REPRODUCIBLE
    [✔] 03 · SOC Fundamentals
     │
     ▼
-   [▓▓▓▓▓▓▓░░░░░░░] 04 · Security Monitoring   ← current focus
+   [✔] 04 · Security Monitoring   ← current focus
     │
     ▼
-   [ ] 05 · Detection & Investigation
+   [✔ ] 05 · Detection & Investigation
     │
     ▼
-   [ ] 06 · Security Automation
+   [✔ ] 06 · Security Automation
 
    STATUS: 3/6 STAGES CLEARED · NEXT SYNC IN PROGRESS...
 ```
@@ -148,6 +133,7 @@ DOCUMENT WHAT IS REPRODUCIBLE
 <img src="https://img.shields.io/badge/06_Automation-pending-555555?style=flat-square&labelColor=0d1117">
 </p>
 
+
 ## Connect
 
 <div align="center">
@@ -157,18 +143,15 @@ DOCUMENT WHAT IS REPRODUCIBLE
 
 </div>
 
-## 📊 Stats & Activity
-
+## 📊 Stats
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JCM0x&show_icons=true&hide_border=true&theme=dark&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&include_all_commits=true&cache_seconds=86400" width="49%" alt="JCM0x GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCM0x&layout=compact&hide_border=true&theme=dark&title_color=39FF14&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="49%" alt="Top languages" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=JCM0x&show_icons=true&hide_border=true&theme=dark&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&include_all_commits=true&cache_seconds=86400" width="49%" alt="JCM0x GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCM0x&layout=compact&hide_border=true&theme=dark&title_color=39FF14&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="49%" alt="Top languages">
+  <img src="https://streak-stats.demolab.com/?user=JCM0x&theme=hacker&hide_border=true&background=0D1117&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&dates=6e7681&cache_seconds=86400" width="49%" alt="GitHub streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JCM0x&theme=matrix&no-frame=true&row=1&column=6" width="49%" alt="GitHub trophies" />
 
-<img src="https://streak-stats.demolab.com/?user=JCM0x&theme=hacker&hide_border=true&background=0D1117&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&dates=6e7681&cache_seconds=86400" width="49%" alt="GitHub streak">
-<img src="https://github-profile-trophy.vercel.app/?username=JCM0x&theme=matrix&no-frame=true&row=1&column=6" width="49%" alt="GitHub trophies">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JCM0x&theme=github-compact&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=39FF14&area=true&area_color=39FF14" width="100%" alt="Contribution activity graph">
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JCM0x&theme=github-compact&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=39FF14&area=true&area_color=39FF14" width="100%" alt="Contribution activity graph" />
 </div>
 
 <p align="center"><sub>Cards run on github-readme-stats, github-readme-streak-stats, github-profile-trophy and github-readme-activity-graph, recolored to a shared neon-green palette.</sub></p>
@@ -176,9 +159,6 @@ DOCUMENT WHAT IS REPRODUCIBLE
 ## Security Principles
 
 ```text
-[+] Authorized environments only
-[+] No credentials, tokens, keys or confidential data
-[+] Public evidence is sanitized
 [+] Offensive experimentation stays inside controlled labs / CTFs
 [+] Technical claims remain honest and reproducible
 ```
@@ -194,3 +174,11 @@ DOCUMENT WHAT IS REPRODUCIBLE
 </div>
 
 <!-- Icon sources: Devicon, Simple Icons, official Nmap/Wazuh assets, John the Ripper package icon, Wikimedia Commons sqlmap logo, and SearchSploit project asset. -->
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+------
