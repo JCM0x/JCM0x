@@ -73,17 +73,17 @@ DOCUMENT WHAT IS REPRODUCIBLE
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="58" height="58" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="58" height="58" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="58" height="58" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="58" height="58" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="58" height="58" />
+  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" alt="AWS" width="58" height="58" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="58" height="58" />
 </p>
 
 <p align="center"><sub><b>Security arsenal</b></sub></p>
 <p align="center">
-  <img src="https://nmap.org/images/nmap-logo-64px.png" alt="Nmap" width="58" height="58" />
+  <img src="https://nmap.org/images/nmap-logo-64px.svg" alt="Nmap" width="58" height="58" />
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" width="58" height="58" />
-  <img src="https://wazuh.com/brand-assets/Wazuh-Logo.svg" alt="Wazuh" width="58" height="58" style="background:#fff;border-radius:8px;padding:4px" />
+  <img src="https://wazuh.com/brand-assets/Wazuh-Logo.svg" alt="Wazuh" width="58" height="58" />
   <img src="https://cdn.simpleicons.org/splunk/FFFFFF" alt="Splunk" width="58" height="58" />
-  <img src="https://raw.githubusercontent.com/rapid7/metasploit-framework/master/docs/assets/images/metasploit-logo-dark-external-use.svg" alt="Metasploit" width="58" height="58" />
+  <img src="https://cdn.simpleicons.org/metasploit/FFFFFF" alt="Metasploit" width="58" height="58" />
   <img src="https://cdn.simpleicons.org/hashcat/FFFFFF" alt="Hashcat" width="58" height="58" />
   <img src="https://raw.githubusercontent.com/openwall/john-packages/main/deploy/metadata/com.openwall.John.png" alt="John the Ripper" width="58" height="58" />
   <img src="https://cdn.simpleicons.org/burpsuite/FF6633" alt="Burp Suite" width="58" height="58" />
@@ -94,7 +94,7 @@ DOCUMENT WHAT IS REPRODUCIBLE
   <img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="Cisco" width="58" height="58" />
 </p>
 
-> Security tools are shown for authorized labs and CTF practice only. Every icon above is sourced from the tool's own project repo or from Simple Icons / Devicon (the two most-used open icon registries), each verified individually rather than guessed.
+> Security tools are shown for authorized labs and CTF practice only. The icon row uses logo-only assets: official project/brand assets where available and Simple Icons for standardized brand marks.
 
 ## Certifications
 
@@ -193,7 +193,7 @@ DOCUMENT WHAT IS REPRODUCIBLE
 
 </div>
 
-<!-- Verified logo sources include Devicon, Simple Icons, official project assets, and repository-local OSINT art. -->
+<!-- Icon sources: Devicon for the core stack; Simple Icons for standardized brand marks; official Nmap, Wazuh, John the Ripper, sqlmap and SearchSploit project assets where a dedicated project asset is used. -->
 <!-- Header animation source: giphy.com/gifs/8bit-gifart-dither-vrfYWzuTAYViOUqBRP -->
 <!-- whoami animation source: giphy.com/gifs/music-video-plurabelle-our-fires-3o7TKOliZn5OBLLjVe (Mattis Dovier) -->
 <!-- Header/footer wave banner: github.com/kyechan99/capsule-render -->
@@ -203,8 +203,8 @@ DOCUMENT WHAT IS REPRODUCIBLE
 <!-- Trophies: github.com/ryo-ma/github-profile-trophy — theme=matrix -->
 <!-- Activity graph: github.com/Ashutosh00710/github-readme-activity-graph -->
 <!-- Profile views counter: komarev.com/ghpvc -->
-<!-- Icon sources verified individually: Devicon (github.com/devicons/devicon) + Simple Icons (github.com/simple-icons/simple-icons, official hex values pulled from their data file; Splunk/OWASP overridden from official black to white for dark-background visibility) + Nmap/Wazuh official brand assets + Metasploit's own repo asset + John the Ripper's Openwall repo asset + sqlmap's own README logo (i.imgur.com/fe85aVR.png) + JitPatro/searchsploit icon repo. -->
-<!-- THC-Hydra intentionally omitted: the project ships no logo/brand asset of its own (its README is plain ASCII text) and no curated icon set (Simple Icons, Devicon) lists it, so no verified original icon exists to use. -->
-<!-- SearchSploit source: github.com/JitPatro/searchsploit -->
-<!-- John the Ripper source: Openwall john-packages -->
-
+<!-- Nmap official assets: nmap.org/images/ -->
+<!-- Wazuh official brand assets: wazuh.com/brand-assets/ and wazuh.com/legal-resources/trademark-area-and-limits/ -->
+<!-- John the Ripper official package icon: github.com/openwall/john-packages -->
+<!-- sqlmap project: github.com/sqlmapproject/sqlmap -->
+<!-- SearchSploit icon source: github.com/JitPatro/searchsploit -->
