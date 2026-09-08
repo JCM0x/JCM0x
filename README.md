@@ -66,35 +66,37 @@ DOCUMENT WHAT IS REPRODUCIBLE
 
 <p align="center"><sub><b>Core stack</b></sub></p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="58" height="58" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="Windows" width="58" height="58" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" alt="Kali Linux" width="58" height="58" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="58" height="58" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="58" height="58" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="58" height="58" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="58" height="58" />
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="AWS" width="58" height="58" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="58" height="58" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="Windows" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" alt="Kali Linux" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="54" height="54" />
+  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" alt="AWS" width="54" height="54" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="54" height="54" />
 </p>
 
 <p align="center"><sub><b>Security arsenal</b></sub></p>
 <p align="center">
-  <img src="https://nmap.org/images/nmap-logo-64px.svg" alt="Nmap" width="58" height="58" />
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" width="58" height="58" />
-  <img src="https://wazuh.com/brand-assets/Wazuh-Logo.svg" alt="Wazuh" width="58" height="58" />
-  <img src="https://cdn.simpleicons.org/splunk/FFFFFF" alt="Splunk" width="58" height="58" />
-  <img src="https://cdn.simpleicons.org/metasploit/FFFFFF" alt="Metasploit" width="58" height="58" />
-  <img src="https://cdn.simpleicons.org/hashcat/FFFFFF" alt="Hashcat" width="58" height="58" />
-  <img src="https://raw.githubusercontent.com/openwall/john-packages/main/deploy/metadata/com.openwall.John.png" alt="John the Ripper" width="58" height="58" />
-  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" alt="Burp Suite" width="58" height="58" />
-  <img src="https://cdn.simpleicons.org/owasp/FFFFFF" alt="OWASP" width="58" height="58" />
-  <img src="https://i.imgur.com/fe85aVR.png" alt="sqlmap" width="58" height="58" />
-  <img src="https://cdn.simpleicons.org/snort/F6A7AA" alt="Snort" width="58" height="58" />
-  <img src="https://raw.githubusercontent.com/JitPatro/searchsploit/main/searchsploit.png" alt="SearchSploit" width="58" height="58" />
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="Cisco" width="58" height="58" />
+  <img src="https://cdn.simpleicons.org/nmap/FFFFFF" alt="Nmap" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/wazuh/FFFFFF" alt="Wazuh" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/splunk/FFFFFF" alt="Splunk" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/metasploit/FFFFFF" alt="Metasploit" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/owasp/FFFFFF" alt="OWASP" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/hashcat/FFFFFF" alt="Hashcat" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" alt="Burp Suite" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/snort/F6A7AA" alt="Snort" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="Cisco" width="50" height="50" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/openwall/john-packages/main/deploy/metadata/com.openwall.John.png" alt="John the Ripper" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/sqlmapproject/sqlmap/master/data/txt/common-tables.txt" alt="sqlmap" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/JitPatro/searchsploit/main/searchsploit.png" alt="SearchSploit" width="50" height="50" />
 </p>
 
-> Security tools are shown for authorized labs and CTF practice only. The icon row uses logo-only assets: official project/brand assets where available and Simple Icons for standardized brand marks.
+> Security tools are shown for authorized labs and CTF practice only. Icons are kept compact and logo-focused.
 
 ## Certifications
 
@@ -171,7 +173,7 @@ DOCUMENT WHAT IS REPRODUCIBLE
 
 </div>
 
-<p align="center"><sub>Cards run on the most-starred, actively maintained engines in this space — github-readme-stats, github-readme-streak-stats, github-profile-trophy and github-readme-activity-graph — recolored to a shared neon-green "matrix" palette instead of mismatched default themes.</sub></p>
+<p align="center"><sub>Cards run on github-readme-stats, github-readme-streak-stats, github-profile-trophy and github-readme-activity-graph, recolored to a shared neon-green palette.</sub></p>
 
 ## Security Principles
 
@@ -193,18 +195,9 @@ DOCUMENT WHAT IS REPRODUCIBLE
 
 </div>
 
-<!-- Icon sources: Devicon for the core stack; Simple Icons for standardized brand marks; official Nmap, Wazuh, John the Ripper, sqlmap and SearchSploit project assets where a dedicated project asset is used. -->
-<!-- Header animation source: giphy.com/gifs/8bit-gifart-dither-vrfYWzuTAYViOUqBRP -->
-<!-- whoami animation source: giphy.com/gifs/music-video-plurabelle-our-fires-3o7TKOliZn5OBLLjVe (Mattis Dovier) -->
+<!-- Icon sources: Devicon for the core stack; Simple Icons for standardized brand marks; official project assets where available. -->
+<!-- Header animation source: giphy.com -->
 <!-- Header/footer wave banner: github.com/kyechan99/capsule-render -->
 <!-- Typing animation: github.com/DenverCoder1/readme-typing-svg -->
-<!-- Stats & top languages: github.com/anuraghazra/github-readme-stats (official demo instance, colors overridden to match brand green; this public instance can occasionally rate-limit — self-host if it ever stops loading) -->
-<!-- Streak stats: github.com/DenverCoder1/github-readme-streak-stats — theme=hacker, hosted on streak-stats.demolab.com -->
-<!-- Trophies: github.com/ryo-ma/github-profile-trophy — theme=matrix -->
-<!-- Activity graph: github.com/Ashutosh00710/github-readme-activity-graph -->
+<!-- Stats: github-readme-stats, github-readme-streak-stats, github-profile-trophy and github-readme-activity-graph -->
 <!-- Profile views counter: komarev.com/ghpvc -->
-<!-- Nmap official assets: nmap.org/images/ -->
-<!-- Wazuh official brand assets: wazuh.com/brand-assets/ and wazuh.com/legal-resources/trademark-area-and-limits/ -->
-<!-- John the Ripper official package icon: github.com/openwall/john-packages -->
-<!-- sqlmap project: github.com/sqlmapproject/sqlmap -->
-<!-- SearchSploit icon source: github.com/JitPatro/searchsploit -->
