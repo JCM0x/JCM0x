@@ -73,15 +73,15 @@ DOCUMENT WHAT IS REPRODUCIBLE
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="54" height="54" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="54" height="54" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="54" height="54" />
-  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" alt="AWS" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="54" height="54" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="54" height="54" />
 </p>
 
 <p align="center"><sub><b>Security arsenal</b></sub></p>
 <p align="center">
-  <img src="https://cdn.simpleicons.org/nmap/FFFFFF" alt="Nmap" width="50" height="50" />
+  <img src="https://nmap.org/images/nmap-logo-64px.svg" alt="Nmap" width="50" height="50" />
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" width="50" height="50" />
-  <img src="https://cdn.simpleicons.org/wazuh/FFFFFF" alt="Wazuh" width="50" height="50" />
+  <img src="https://wazuh.com/brand-assets/Wazuh-Logo.svg" alt="Wazuh" width="50" height="50" />
   <img src="https://cdn.simpleicons.org/splunk/FFFFFF" alt="Splunk" width="50" height="50" />
   <img src="https://cdn.simpleicons.org/metasploit/FFFFFF" alt="Metasploit" width="50" height="50" />
   <img src="https://cdn.simpleicons.org/owasp/FFFFFF" alt="OWASP" width="50" height="50" />
@@ -92,11 +92,11 @@ DOCUMENT WHAT IS REPRODUCIBLE
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/openwall/john-packages/main/deploy/metadata/com.openwall.John.png" alt="John the Ripper" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/sqlmapproject/sqlmap/master/data/txt/common-tables.txt" alt="sqlmap" width="50" height="50" />
+  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Sqlmap_logo.png" alt="sqlmap" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/JitPatro/searchsploit/main/searchsploit.png" alt="SearchSploit" width="50" height="50" />
 </p>
 
-> Security tools are shown for authorized labs and CTF practice only. Icons are kept compact and logo-focused.
+> Security tools are shown for authorized labs and CTF practice only. The skills are grouped into core technologies and security tooling for a cleaner layout.
 
 ## Certifications
 
@@ -195,9 +195,4 @@ DOCUMENT WHAT IS REPRODUCIBLE
 
 </div>
 
-<!-- Icon sources: Devicon for the core stack; Simple Icons for standardized brand marks; official project assets where available. -->
-<!-- Header animation source: giphy.com -->
-<!-- Header/footer wave banner: github.com/kyechan99/capsule-render -->
-<!-- Typing animation: github.com/DenverCoder1/readme-typing-svg -->
-<!-- Stats: github-readme-stats, github-readme-streak-stats, github-profile-trophy and github-readme-activity-graph -->
-<!-- Profile views counter: komarev.com/ghpvc -->
+<!-- Icon sources: Devicon, Simple Icons, official Nmap/Wazuh assets, John the Ripper package icon, Wikimedia Commons sqlmap logo, and SearchSploit project asset. -->
